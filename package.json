@@ -1,0 +1,14 @@
+{
+  "name": "modella-timestamp",
+  "version": "0.0.1",
+  "description": "simple timestamp implementation for modella",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/modella/modella-timestamp.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
